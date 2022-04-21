@@ -1,3 +1,11 @@
+A simple project created as part of London App Brewery's course on mobile app development with Flutter.
+
+# Screenshot:
+
+![Banner](https://raw.githubusercontent.com/RobMRowe/mi_card_flutter_rr/master/screenshot.png)
+
+# Original README
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
@@ -20,8 +28,6 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to add Material icons
 * How to style Text widgets
 * How to read and use Flutter Documentation
-
-
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
