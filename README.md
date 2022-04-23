@@ -1,4 +1,4 @@
-A simple project created as part of London App Brewery's course on mobile app development with Flutter.
+A simple business card app, created as part of London App Brewery's course on mobile development with Flutter.
 
 # Screenshot:
 
